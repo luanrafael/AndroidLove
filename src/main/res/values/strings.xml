@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidLove</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Eu sonhei com um celular \n de código aberto \n e pronto para vencer!</string>
+    <string name="Haiku">Eu sonhei com um celular \n de código aberto \n e pronto para vencer!</string>
+    <string name="love_button_text">Show me Android Love</string>
+</resources>
